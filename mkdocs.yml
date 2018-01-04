@@ -1,1 +1,6 @@
-site_name: My Docs
+site_name: 浩的个人网站
+site_description: 自己的页面
+site_author: 郭浩
+copyright: 郭浩
+theme: readthedocs
+site_dir: ../korman.github.io/
