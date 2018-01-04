@@ -4,3 +4,9 @@ site_author: 郭浩
 copyright: 郭浩
 theme: readthedocs
 site_dir: ../korman.github.io/
+
+pages:
+    - 首页: index.md
+    - 关于: 
+      - 联系方式: about/contact.md
+      - 更新日志: about/release-notes.md
