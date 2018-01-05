@@ -10,3 +10,5 @@ pages:
     - 关于: 
       - 联系方式: about/contact.md
       - 更新日志: about/release-notes.md
+    - 文章:
+      - 安装vim-go: essays/vim-安装vim-go-打造GOLANG-专用IDE.md
